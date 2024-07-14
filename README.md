@@ -47,5 +47,5 @@ If you have any feedback, please let us know via profissionalf.andre@gmail.com
  - [Rocketseat](https://www.linkedin.com/school/rocketseat)
  - [React](https://react.dev/)
  - [Tailwind](https://tailwindcss.com/)
- - [Vite]([https://docs.pytest.org/](https://vitejs.dev/))
+ - [Vite](https://vitejs.dev/)
 
